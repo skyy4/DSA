@@ -11,8 +11,14 @@ public class dataTypesNoperators{
 
         // long range -10^18 to 10^18
 
-        long z = 10000000000L;
-        System.out.println(z);
+        // long z = 10000000000L;
+        // System.out.println(z);
+
+        // int x = 1000L;
+        // System.out.println(x);     //error
+
+        float a =  10.4;
+        System.out.println(a);       //possible lossy conversion
         
     }
     
