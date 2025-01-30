@@ -17,7 +17,7 @@ public class reverseArray {
    public static void reverse(int arr[]){
     int sp = 0;
     int lp = arr.length-1;
-    while(sp){
+    while(sp<lp){
         int temp = arr[sp];
         arr[sp] = arr[lp];
         arr[lp] = temp;
