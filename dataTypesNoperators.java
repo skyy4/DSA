@@ -17,7 +17,7 @@ public class dataTypesNoperators{
         // int x = 1000L;
         // System.out.println(x);     //error
 
-        float a =  10.4;
+        float a =  10.4f;
         System.out.println(a);       //possible lossy conversion
         
     }
