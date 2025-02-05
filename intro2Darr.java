@@ -35,7 +35,7 @@ public class intro2Darr {
         
     for(int j = 0;j<m;j++){
                 for(int i =0;i<n;i++){
-                    System.out.print(arr[i][j]+" ");     ;
+                    System.out.print(arr[i][j]+" ");     ;        // print column wise
                 }
                 System.out.println();
         
