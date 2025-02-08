@@ -1,6 +1,6 @@
 import java.util.*;
 public class intro2Darr {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int m = sc.nextInt();

@@ -1,6 +1,6 @@
 import java.util.*;
 public class passCheck {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int marks = sc.nextInt();
         if(marks>=35){

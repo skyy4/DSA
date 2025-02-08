@@ -1,6 +1,6 @@
 import java.util.*;
 public class reversePartArr{
-    public static void main (String [] args){
+    public static void main (Strings [] args){
         Scanner sc = new Scanner (System.in);
         int n = sc.nextInt();
         int arr [] = new int [n];

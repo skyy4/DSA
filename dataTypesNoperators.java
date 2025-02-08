@@ -1,6 +1,6 @@
 import java.util.*;
 public class dataTypesNoperators{
-    public static void main(String [] args){
+    public static void main(Strings [] args){
         // int x = 100;
         // System.out.println(x);
 

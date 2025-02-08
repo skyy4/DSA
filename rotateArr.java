@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class rotateArr {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Enter the length of array: ");

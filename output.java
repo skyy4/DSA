@@ -1,6 +1,6 @@
  import java.util.*;
 public class output{
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         //Rule1 = terminate your line with semi-colon ; -->comments
         System.out.println(7); 
         //r2 = java is case sensitive lang
