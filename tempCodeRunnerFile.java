@@ -1,2 +1,4 @@
- // char ch = sc.nextLine().charAt(0);
-        // System.out.println(ch);
+int arr[]={10,20,02,30,40};
+        // for(int val : arr){
+        //     System.out.println(val);
+        // }
