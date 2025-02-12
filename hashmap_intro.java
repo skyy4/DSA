@@ -23,6 +23,8 @@ public class hashmap_intro {
 
         for(int key:hm.keySet()){
             System.out.println(key);
+            System.out.println(hm.get(key));
+
         }
 
 
